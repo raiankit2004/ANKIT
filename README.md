@@ -5,7 +5,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CF7f9&center=true&vCenter=true&width=500&lines=Passionate+Software+Engineer;Core+Java+Developer;AWS+%7C+Cloud+Architect;Data+Engineering+%7C+ML;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1CD6C4&center=true&vCenter=true&width=500&lines=Passionate+Software+Engineer;Core+Java+Developer;AWS+%7C+Cloud+Architect;Data+Engineering+%7C+ML;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,15 +19,6 @@
 - ⚡ Fun fact: I love solving **DSA problems on LeetCode** and organizing cultural events 🎭  
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raiankit2004&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raiankit2004&theme=radical" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiankit2004&layout=compact&theme=radical" height="160"/>
-</p>
-
 ## 🛠️ Tech Stack  
 
 ### 🚀 Programming Languages  
